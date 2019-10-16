@@ -10,7 +10,7 @@ locale                   : "Charlottesville-Virginia"
 title                    : "Soneya Binta Hossain/ Site Title"
 title_separator          : "-"
 name                     : &name "Soneya Binta Hossain"
-description              : &description "Ph.D. Student, University of Virginia
+description              : &description "Ph.D. Student, University of Virginia"
 url                      : https://soneyahossain.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "soneyahossain/soneyahossain.github.io"
