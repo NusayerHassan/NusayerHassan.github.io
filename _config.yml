@@ -82,27 +82,27 @@ analytics:
 author:
   name             : "Soneya Binta Hossain"
   avatar           : "profile.png"
-  bio              : "Gradute Reseach Fellow, University Of Virginia"
+  bio              : "Graduate Reseach Fellow, University Of Virginia"
   location         : "Charlottesville, Virginia"
   employer         :
   pubmed           : 
   googlescholar    :
-  email            :
+  email            :  
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/soneya.bintahossain"
   foursquare       :
-  github           : "https://soneyahossain.github.io"
+  github           : "https://github.com/soneyahossain"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://github.com/soneyahossain"
   orcid            : #http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
