@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-
+..............Luck favors the prepared mind..............
+...............The prepared mind sooner or later finds something important and does it.............
+                .........Richard Hamming.......
 
 
 Hi, 
