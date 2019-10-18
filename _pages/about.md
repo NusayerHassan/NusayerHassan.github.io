@@ -25,7 +25,7 @@ I am Soneya Binta Hossain. Currently, I am a first year gradute student at the U
      
      
      "Luck favors the prepared mind...
-     .......The prepared mind sooner or later finds something important and does it" <br>
+     .......The prepared mind sooner or later finds something important and does it"
      
-                 - Richard Hamming <br/>
+                 - Richard Hamming
 
