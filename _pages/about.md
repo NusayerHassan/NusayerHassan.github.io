@@ -7,4 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am soneya, a CS gradute student at the University of Virginia. I completed my undergraduate in computer science and engineering from Bangledesh University of Engineering and Techonology ( [BUET](https://www.buet.ac.bd/web/) ). After my bachelor, I joined [REVE Systems](https://en.wikipedia.org/wiki/REVE_Systems) as a Java programmer in the Switch and Billing team and did many challenging and interesting projects there. I started my Ph.D in CS at UVa from Aug, 2019 and my research interest is Software Engineering, Software Security, Machine Learning or at the intersection of these fields. 
+
+
+
+
+Hi, 
+
+I am Soneya Binta Hossain. Currently, I am a first year gradute student at the University of Virginia. I completed my undergraduate in computer science and engineering from Bangledesh University of Engineering and Techonology ( [BUET](https://www.buet.ac.bd/web/) ). After my bachelor, I joined [REVE Systems](https://en.wikipedia.org/wiki/REVE_Systems)'s research and development team and did many challenging and interesting projects there. I started my graduate study in CS at UVa from Aug, 2019 and eventually I will be doing my Ph.D. here. My research interest is Software Engineering, Software Security, Machine Learning or at the intersection of these fields. 
