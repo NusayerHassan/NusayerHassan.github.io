@@ -13,7 +13,7 @@ redirect_from:
 
 Welcome to my Homepage!
 
-I am Soneya Binta Hossain. I am a first-year gradute student at the University of Virginia. I completed my undergraduate in computer science and engineering from Bangledesh University of Engineering and Techonology ( [BUET](https://www.buet.ac.bd/web/) ). After my bachelor's, I joined [REVE Systems](https://en.wikipedia.org/wiki/REVE_Systems)s' research and development team and did many challenging and interesting projects there. I started at UVa in August 2019 and I eventually will be getting my Ph.D. here. My research interests are Software Engineering, Software Security, Machine Learning and the intersection of these fields.
+I am Soneya Binta Hossain. I am a first-year gradute student at the University of Virginia. I completed my undergraduate in Computer Science and Engineering from Bangladesh University of Engineering and Technology ( [BUET](https://www.buet.ac.bd/web/) ). After my bachelor's, I joined [REVE Systems](https://en.wikipedia.org/wiki/REVE_Systems)s' research and development team and did many challenging and interesting projects there. I started at UVa in August 2019 and I eventually will be getting my Ph.D. here. My research interests are Software Engineering, Software Security, Machine Learning and the intersection of these fields.
 <br><br><br><br><br><br><br>
 
      
