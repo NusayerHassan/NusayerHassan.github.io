@@ -4,5 +4,8 @@
 main:
   - title: "Research"
     url: /publications/
+    
+ - title: "Honors and Awards"
+    url: /horors/
 
  
