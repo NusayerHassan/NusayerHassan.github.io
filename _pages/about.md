@@ -18,6 +18,9 @@ at [REVE Systems](https://en.wikipedia.org/wiki/REVE_Systems) for three years fr
 
 ## RESEARCH
 
+I am interested in machine learning based automated software verification and validation. 
+
+
 **POSTERS**
 
 **Balanced Coverage in Fault-Tolerant Broadcasting for Wireless Multi-hop Networks**
