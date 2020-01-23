@@ -7,8 +7,8 @@ author_profile: true
 
 
 
-**POSTERS**
------------
+## Posters
+--------------------------
 
 **Balanced Coverage in Fault-Tolerant Broadcasting for Wireless Multi-hop Networks**
 **Soneya Binta Hossain**, Shantanu Sarker, Arunavo Dey, Undergraduate Thesis Poster Competition,
