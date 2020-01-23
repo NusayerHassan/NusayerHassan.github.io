@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-#SONEYA BINTA HOSSAIN
+# SONEYA BINTA HOSSAIN
 
 
 **Bio**
