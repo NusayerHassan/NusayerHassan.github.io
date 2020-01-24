@@ -1,3 +1,15 @@
+---
+layout: archive
+title: ""
+permalink: /education/
+author_profile: true
+---
+
+
+
+
+
+
 ## Education
 
 Ph.D. Student,  Aug 19 - Present  
