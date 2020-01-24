@@ -65,6 +65,6 @@ Bangladesh University of Engineering and Technology, Dhaka, Bangladesh
 
 ## Leadership
 
-**Leadership Rep**, Computer Science Department Graduate Student Group (**CSGSG**), University of Virginia [Link] (https://csgsg.org/)
+**Leadership Rep**, Computer Science Department Graduate Student Group (**CSGSG**), University of Virginia [Link](https://csgsg.org/)
 
 
