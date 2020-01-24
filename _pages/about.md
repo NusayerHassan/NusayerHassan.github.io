@@ -63,8 +63,8 @@ Bangladesh University of Engineering and Technology, Dhaka, Bangladesh
 • **Tanlentpool Scholarship** for excellence in board examination after 8th grade. (2004-2005)
 
 
+## Leadership
 
-
-
+**Leadership Rep**, Computer Science Department Graduate Student Group (**CSGSG**), University of Virginia [Link] (https://csgsg.org/)
 
 
