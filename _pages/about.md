@@ -30,5 +30,31 @@ BUET, Dhaka, Bangladesh, 2016[[ppt](https://drive.google.com/file/d/1mD6-1oBXy8g
 **Happy-Sleep: A System to Alert User at a Perfect Time by Measuring Sufficient Sleep
 through Utilization of Multiple Body Area Sensors**, Soneya Binta Hossain, Grace Hopper Celebration of Women in Computing India (GHCI) 2015, Bangalore, India [[ppt](https://drive.google.com/file/d/1hS7wXX0QUMWwmhqGl15NfQY2XoOYbw4V/view)].
 
+## Miscellaneous
+
+**Awards & Achievements**
+
+• **Student Travel Grant by Computing Research Association-Women (CRA-W)**, USA for participating in CRA-W Grad Cohort Workshop 2020.
+ 
+• **GHCI Student Scholarship, Travel Grant** to attend Grace Hopper Celebration of Women in Computing (GHCI), Bangalore, India, December 2015.
+ 
+• **Top Ten Undergraduate Thesis Poster Award**, Dept. of CSE, BUET
+
+• **Top Ten Database Project Award**, Dept. of CSE, BUET
+
+• **Deans Award** for excellent academic results in Level 2
+
+• **Merit List Award** for excellent academic results in Level 2
+
+• **Board Scholarship** for excellence in Higher Secondary School Certificate (HSC) Examination. (2008-2010)
+
+• **Board Scholarship** for excellence in Secondary School Certificate (SSC) Examination. (2006-2008)
+
+• **Tanlentpool Scholarship** for excellence in board examination after 8th grade. (2004-2005)
+
+
+
+
+
 
 
