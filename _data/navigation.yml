@@ -4,5 +4,8 @@
 main:
   - title: "Research"
     url: /publications/
+    
+  - title: "Education"
+    url: /education/
 
  
