@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# SONEYA BINTA HOSSAIN
+# Soneya Binta Hossain
 
 <br><br>
 I am a PhD student in Department of Computer Science at the University of Virginia, started in August 2019. I am working in the Verifiable Computing and Robotics (VCR) Lab under the supervision of [Professor Matthew Dwyer](https://matthewbdwyer.github.io/). I have completed my bachelor's in Computer Science and Engineering from Bangladesh University of Engineering and Technology ( [BUET](https://www.buet.ac.bd/web/) ). Before entering grad school, I worked 
@@ -16,12 +16,12 @@ at [REVE Systems](https://en.wikipedia.org/wiki/REVE_Systems) for three years fr
 
 
 
-## RESEARCH
+## Research
 
 I am interested in machine learning based automated software verification and validation. 
 
 
-**POSTERS**
+**Posters**
 
 **Balanced Coverage in Fault-Tolerant Broadcasting for Wireless Multi-hop Networks**
 **Soneya Binta Hossain**, Shantanu Sarker, Arunavo Dey, Undergraduate Thesis Poster Competition,
