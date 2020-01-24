@@ -52,22 +52,14 @@ Bangladesh University of Engineering and Technology, Dhaka, Bangladesh
 
 **Awards & Achievements**
 
-• **Student Travel Grant by Computing Research Association-Women (CRA-W)**, USA for participating in CRA-W Grad Cohort Workshop 2020.
- 
-• **GHCI Student Scholarship, Travel Grant** to attend Grace Hopper Celebration of Women in Computing (GHCI), Bangalore, India, December 2015.
- 
-• **Top Ten Undergraduate Thesis Poster Award**, Dept. of CSE, BUET
-
-• **Top Ten Database Project Award**, Dept. of CSE, BUET
-
-• **Deans Award** for excellent academic results in Level 2
-
-• **Merit List Award** for excellent academic results in Level 2
-
-• **Board Scholarship** for excellence in Higher Secondary School Certificate (HSC) Examination. (2008-2010)
-
-• **Board Scholarship** for excellence in Secondary School Certificate (SSC) Examination. (2006-2008)
-
+• **Student Travel Grant by Computing Research Association-Women (CRA-W)**, USA for participating in CRA-W Grad Cohort Workshop 2020.  
+• **GHCI Student Scholarship, Travel Grant** to attend Grace Hopper Celebration of Women in Computing (GHCI), Bangalore, India, December 2015.  
+• **Top Ten Undergraduate Thesis Poster Award**, Dept. of CSE, BUET  
+• **Top Ten Database Project Award**, Dept. of CSE, BUET  
+• **Deans Award** for excellent academic results in Level 2  
+• **Merit List Award** for excellent academic results in Level 2  
+• **Board Scholarship** for excellence in Higher Secondary School Certificate (HSC) Examination. (2008-2010)  
+• **Board Scholarship** for excellence in Secondary School Certificate (SSC) Examination. (2006-2008)  
 • **Tanlentpool Scholarship** for excellence in board examination after 8th grade. (2004-2005)
 
 
