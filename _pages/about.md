@@ -55,9 +55,8 @@ Bogra Cantonment Public School and College, Bogra, Bangladesh
 
 
 
-## Miscellaneous
+## Awards & Achievements
 
-**Awards & Achievements**
 
 • **Student Travel Grant by Computing Research Association-Women (CRA-W)**, USA for participating in CRA-W Grad Cohort Workshop 2020.  
 • **GHCI Student Scholarship, Travel Grant** to attend Grace Hopper Celebration of Women in Computing (GHCI), Bangalore, India, December 2015.  
