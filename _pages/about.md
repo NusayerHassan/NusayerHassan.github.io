@@ -49,7 +49,7 @@ Bangladesh University of Engineering and Technology, Dhaka, Bangladesh
 **Higher Secondary Certificate (HSC)**, 2008 - 2010  
 Bogra Cantonment Public School and College, Bogra, Bangladesh
 
-**Secondary School Certificate (HSC)** 2006 - 2008  
+**Secondary School Certificate (SSC)**, 2006 - 2008  
 Bogra Cantonment Public School and College, Bogra, Bangladesh
  
 
