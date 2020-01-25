@@ -2196,7 +2196,7 @@ select:focus {
 }
 .page .page__inner-wrap {
  clear:both;
- width:100%;
+ width:128%;
  float:left;
  margin-left:0;
  margin-right:0
