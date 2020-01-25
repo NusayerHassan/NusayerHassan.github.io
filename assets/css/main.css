@@ -2881,12 +2881,12 @@ select:focus {
  }
 }
 .author__avatar img {
- max-width:175px;
+ max-width:223px;
  border-radius:50%
 }
 @media (min-width: 57.8125em) {
  .author__avatar img {
-  padding:5px;
+  /*! padding:5px; */
   border:1px solid #f2f3f3
  }
 }
