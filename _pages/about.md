@@ -22,7 +22,7 @@ Department of Computer Science
 University of Virginia (UVA)  
 
 **Software Engineer**  
-[REVE Systems (R&D)](https://en.wikipedia.org/wiki/REVE_Systems),  Mar. 2016 - May 2019  
+[REVE Systems (R&D)] (https://en.wikipedia.org/wiki/REVE_Systems),  Mar. 2016 - May 2019  
 I was responsible for initial research, planning and designing, developing and testing features/modules within **iTel Billing** and **iTel Switch**, transaction servers and customized products upon client's requirements.
 
 
