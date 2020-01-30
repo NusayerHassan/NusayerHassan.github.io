@@ -87,8 +87,8 @@ through Utilization of Multiple Body Area Sensors", GHCI, 2015, Bangalore, India
 
 **Aug. 27, 2019:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Started Graduate School at the University of Virginia  
 **May 31, 2019:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Left Job at Reve Systems  
-**Mar. 16, 2019:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Started working as a software engineer at Reve Systems  
-**Mar. 15, 2019:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Graduated from BUET  
+**Mar. 16, 2016:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Started working as a software engineer at Reve Systems  
+**Mar. 15, 2016:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Graduated from BUET  
 
 
 
