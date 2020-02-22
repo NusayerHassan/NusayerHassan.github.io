@@ -64,7 +64,7 @@ through Utilization of Multiple Body Area Sensors", GHCI, 2015, Bangalore, India
 
 ## Awards & Achievements
 
-
+• **2020 CAPWIC Scholarship**, to attend and present research work in the ACM Capital Region Celebration of Women in Computing  
 • **Student Travel Grant by Computing Research Association-Women (CRA-W)**, USA for participating in CRA-W Grad Cohort Workshop 2020.  
 • **GHCI Student Scholarship, Travel Grant** to attend Grace Hopper Celebration of Women in Computing (GHCI), Bangalore, India, December 2015.  
 • **Top Ten Undergraduate Thesis Poster Award**, Dept. of CSE, BUET  
