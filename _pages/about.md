@@ -16,8 +16,12 @@ I am a PhD student in Department of Computer Science at the University of Virgin
 
 ## Experience
 
+**Graduate Teaching Assistant**, Spring 2021 
+Graduate Compiler ( CS 6620 )
+University of Virginia (UVA)  
+
 **Graduate Research Assistant**, Fall 2019 - Present  
-Verifiable Computing and Robotics (VCR) Lab  
+Laboratory for Engineering Safe Software (LESS)  
 Department of Computer Science  
 University of Virginia (UVA)  
 
