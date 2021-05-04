@@ -88,7 +88,7 @@ through Utilization of Multiple Body Area Sensors", GHCI, 2015, Bangalore, India
 
 
 ## News
-**Apr. 23-24, 2021:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Attended CRA-W Grad Cohort Workshop 2021 (virtual due to covid-19)  
+**Apr. 23-24, 2021:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Attended CRA-W Grad Cohort Workshop 2021 (virtual due to covid-19)  
 **Feb. 1, 2021:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Started working as a TA for graduate compilers (CS 6620) by Prof. Matt Dwyer  
 **Aug. 27, 2019:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Started Graduate School at the University of Virginia  
 **May 31, 2019:** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Left Job at Reve Systems  
