@@ -11,7 +11,7 @@ redirect_from:
 # Soneya Binta Hossain 
 
 <br><br>
-I am a PhD student in Department of Computer Science at the University of Virginia, started in August 2019. I am working in the Laboratory for Engineering Safe Software ([LESS](https://less-lab-uva.github.io) ) lab at UVA under the supervision of [Professor Matthew Dwyer](https://matthewbdwyer.github.io/). I have completed my bachelor's in Computer Science and Engineering from Bangladesh University of Engineering and Technology ( [BUET](https://www.buet.ac.bd/web/) ). My undergraduate thesis supervisor was  [Dr. A.K.M. Ashikur Rahman](https://cse.buet.ac.bd/faculty/facdetail.php?id=ashikurrahman). Before entering grad school, I worked at [REVE Systems](https://en.wikipedia.org/wiki/REVE_Systems) for three years from March 2016 to May 2019 as a software engineer in the research and development (R&D) team. Find my CV [here](https://drive.google.com/file/d/1F9nySMguiYvxkB5b1glYeAzV9pIMLPd5/view).
+I am a PhD student in Department of Computer Science at the University of Virginia, started in August 2019. I am working in the Laboratory for Engineering Safe Software ([LESS](https://less-lab-uva.github.io) ) lab at UVA under the supervision of [Matthew Dwyer](https://matthewbdwyer.github.io/). I have completed my bachelor's in Computer Science and Engineering from Bangladesh University of Engineering and Technology ( [BUET](https://www.buet.ac.bd/web/) ). My undergraduate thesis supervisor was  [Dr. A.K.M. Ashikur Rahman](https://cse.buet.ac.bd/faculty/facdetail.php?id=ashikurrahman). Before entering grad school, I worked at [REVE Systems](https://en.wikipedia.org/wiki/REVE_Systems) for three years from March 2016 to May 2019 as a software engineer in the research and development (R&D) team. Find my CV [here](https://drive.google.com/file/d/1F9nySMguiYvxkB5b1glYeAzV9pIMLPd5/view).
 
 
 ## Experience
@@ -37,7 +37,7 @@ I was responsible for initial research, planning and designing, developing and t
 Department of Computer Science (CS), School of Engineering and Applied Science  
 University of Virginia, Charlottesville, Virginia  
 **Position:** Graduate Research Fellow, Verifiable Computing and Robotics Lab  
-**Advisor:** [Professor Matthew Dwyer](https://matthewbdwyer.github.io/)
+**Advisor:** [Matthew Dwyer](https://matthewbdwyer.github.io/)
 
 
 **B.Sc**, Mar. 2011 - Mar. 2016  
