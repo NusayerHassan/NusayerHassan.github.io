@@ -57,7 +57,7 @@ I am interested in Data analysis based automated software verification and valid
 
 ## News
 
-**July. 13, 2021:** - Started working as a System Engineer in  Ed Egelman Laboratory, UVA. 
+**July. 13, 2021:** - Started working as a System Engineer in  Ed Egelman Laboratory, UVA  
 **Feb. 1, 2021:** - Started Graduate School at the University of Virginia  
 **Dec 31, 2020:** - Left Job at Reve Systems  
 **September. 11, 2011:** - Started working as a system engineer at Reve Systems  
