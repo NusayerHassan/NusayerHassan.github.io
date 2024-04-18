@@ -1,14 +1,14 @@
 ---
 layout: archive
 title: ""
-permalink: /education/
+permalink: /Experience/
 author_profile: true
 ---
 
 
 
 
-## Education
+## Experience
 
 **Master's Student**,  Feb. 2021 - Present  
 Department of System Engineering, School of Engineering and Applied Science  
