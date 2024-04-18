@@ -12,8 +12,7 @@ redirect_from:
 
 <br><br>
 
-I am Nusayer Hassan, a master's student in Systems Engineering at the University of Virginia, starting from Spring'21. I am interested in Systems and Networking, and data analysis.  
-I was born in Bangladesh. I received a bachelor of science in computer science and engineering (CSE) from Shahjalal University of Science and Technology (SUST), Bangladesh, in 2011. After my bachelor's, I worked at [REVE Systems](https://www.revesoft.com/), a multinational VoIP company, for nine years as a system engineer.  I love to travel, play soccer and table tennis.
+I'm S M Nusayer Hassan, a data analyst working on mobile sensing and health at the Sensing Systems for Health Lab, University of Virginia, under the guidance of Professor Laura Barnes. With a Master's in Systems Engineering from UVA and prior experience as a Graduate Research Assistant, I've honed my skills in leveraging technology to address healthcare challenges. I also worked as a System Engineer at the Ed Egelman Laboratory under the supervision of Professor Edward H. Egelman. I obtained my Bachelor's in Computer Science and Engineering from Shahjalal University of Science and Technology. Additionally, I've served as a Senior Product Specialist at Reve Systems. Committed to driving innovation and making impactful contributions, I'm passionate about pushing the boundaries of knowledge in both the data analytics and systems engineering fields.
 
 ## Experience  
 
