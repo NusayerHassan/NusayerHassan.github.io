@@ -22,19 +22,19 @@ Supervisor: Professor Laura Barnes
 Responsibility: Mobile Sensing and Health Research  
 
 **Graduate Research Assistant**, February 2022 - August 2023  
-Sensing Systems for Health Lab, UVA
-Supervisor: Professor Laura Barnes
-Responsibility: Mobile Sensing and Health Research.
+Sensing Systems for Health Lab, UVA  
+Supervisor: Professor Laura Barnes  
+Responsibility: Mobile Sensing and Health Research.  
 
 **Graduate Teaching Assistant**, February 2022 - August 2023  
-Data Science Systems (DS-2002) (Fall 2022)
-Data and Information Engineering (SYS-2202) (Spring 2023)
+Data Science Systems (DS-2002) (Fall 2022)  
+Data and Information Engineering (SYS-2202) (Spring 2023)  
 
 **System Engineer**, August 2021 - August 2022  
-Ed Egelman Laboratory 
-Department of BioChemistry and Molecular Genetics  
-University of Virginia (UVA)  
-Supervisor: Edward H. Egelman
+Ed Egelman Laboratory  
+Department of BioChemistry and Molecular Genetics   
+University of Virginia (UVA)   
+Supervisor: Edward H. Egelman  
 
 **System Engineer**  
 [REVE Systems](https://www.revesoft.com/),  Sep. 2011 - Dec 2020  
