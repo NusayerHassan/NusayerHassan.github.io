@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<h6> **Projects** <\h6> 
+# **Projects**
 
 **Multiscale Modeling and Intervention for Improving Long-Term Medication Adherence in Context**
 
