@@ -61,10 +61,10 @@ Shahjalal University of Science and Technology(SUST)
 ## News
 
 
-**August. 2023:** - Joined in Sensing Systems for Health Lab, UVA as a Data Analyst.
-**August. 2023:** - Completed Graduation from UVA.
-**August. 2022:** - Left Job at Ed Egelman Laboratory.
-**February. 2022:** - Joined in Sensing Systems for Health Lab, UVA as a Graduate Research Assistant.
+**August. 2023:** - Joined in Sensing Systems for Health Lab, UVA as a Data Analyst.  
+**August. 2023:** - Completed Graduation from UVA.  
+**August. 2022:** - Left Job at Ed Egelman Laboratory.  
+**February. 2022:** - Joined in Sensing Systems for Health Lab, UVA as a Graduate Research Assistant.  
 **August. 1, 2021:** - Started working as a System Engineer in  Ed Egelman Laboratory, UVA  
 **February. 1, 2021:** - Started Graduate School at the University of Virginia  
 **December 31, 2020:** - Left Job at Reve Systems  
