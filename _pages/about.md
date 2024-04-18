@@ -17,7 +17,7 @@ I'm S M Nusayer Hassan, a data analyst working on mobile sensing and health at t
 ## Experience  
 
 **Data Analyst**, August 2023 - Present  
-Sensing Systems for Health Lab, UVA <\n>
+Sensing Systems for Health Lab, UVA
 Supervisor: Professor Laura Barnes
 Responsibility: Mobile Sensing and Health Research.
 
