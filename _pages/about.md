@@ -32,13 +32,14 @@ Data and Information Engineering (SYS-2202) (Spring 2023)
 
 **System Engineer**, August 2021 - August 2022  
 Ed Egelman Laboratory  
-Department of BioChemistry and Molecular Genetics   
-University of Virginia (UVA)   
+Department of BioChemistry and Molecular Genetics, UVA   
 Supervisor: Edward H. Egelman  
+Responsibility: HPC Linux server, Network, Hardware, Software maintenance.  
 
 **System Engineer**  
 [REVE Systems](https://www.revesoft.com/),  Sep. 2011 - Dec 2020  
-I was responsible for System Analysis, System Design, Software Testing, Security ensure, Bug Fixing, Client Support, Software System Configuration, and Linux Server Maintenance.
+Dhaka, Bangladesh.  
+Responsibility: Linux Server Maintenance, Server Security Analysis, Database Maintenance, System Design, Bug Fixing, Software Testing, Technical Support.  
 
 
 
