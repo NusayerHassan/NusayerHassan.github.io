@@ -45,37 +45,31 @@ Responsibility: Linux Server Maintenance, Server Security Analysis, Database Mai
 
 ## Education
 
-**Master's Student**,  Feb. 2021 - Present  
-Department of System Engineering, School of Engineering and Applied Science  
-University of Virginia, Charlottesville, Virginia  
+**Master of Engineering**,  Feb. 2021 - August. 2023  
+Systems Engineering   
+University of Virginia 
 
 
-**B.Sc**,  Jul. 2007 - August. 2011  
+**Bachelor of Science**,  Jul. 2007 - August. 2011  
 Computer Science and Engineering (CSE)  
-Shahjalal University of Science and Technology, Sylhet, Bangladesh  
+Shahjalal University of Science and Technology(SUST)  
 
-
-**Higher Secondary Certificate (HSC)**,  2004 - 2006  
-Haji Mohammad Mohsin Collage, Chittagong, Bangladesh
-
-**Secondary School Certificate (SSC)**,  2002 - 2004  
-Bangladesh Bank Colony High School, Chittagong, Bangladesh
-
-
-## Research
-
-I am interested in Data analysis based automated software verification and validation. 
 
 
 
 
 ## News
 
-**July. 13, 2021:** - Started working as a System Engineer in  Ed Egelman Laboratory, UVA  
-**Feb. 1, 2021:** - Started Graduate School at the University of Virginia  
-**Dec 31, 2020:** - Left Job at Reve Systems  
+
+**August. 2023:** - Joined in Sensing Systems for Health Lab, UVA as a Data Analyst.
+**August. 2023:** - Completed Graduation from UVA.
+**August. 2022:** - Left Job at Ed Egelman Laboratory.
+**February. 2022:** - Joined in Sensing Systems for Health Lab, UVA as a Graduate Research Assistant.
+**August. 1, 2021:** - Started working as a System Engineer in  Ed Egelman Laboratory, UVA  
+**February. 1, 2021:** - Started Graduate School at the University of Virginia  
+**December 31, 2020:** - Left Job at Reve Systems  
 **September. 11, 2011:** - Started working as a system engineer at Reve Systems  
-**Aug. 10, 2011:** - Graduated from SUST  
+**August. 10, 2011:** - Graduated from SUST  
 
 
 
