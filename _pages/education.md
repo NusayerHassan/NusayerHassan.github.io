@@ -10,8 +10,7 @@ author_profile: true
 
 # Experience
 
-## **Data Analyst, Sensing Systems for Health Lab, UVA**      
-Aug. 2023 - Present
+## **Data Analyst, Sensing Systems for Health Lab, UVA**       ###Aug. 2023 - Present
 
 **BCMedTech**  
 - Collect Passive and Survey data of 20+ patients using Sensus App.  
@@ -22,8 +21,7 @@ Aug. 2023 - Present
 - Data Visualization.  
 
 
-## **Graduate Research Assistant, Sensing Systems for Health Lab, UVA** 
-Feb. 2022 - August. 2023  
+## **Graduate Research Assistant, Sensing Systems for Health Lab, UVA**     ###Feb. 2022 - August. 2023  
 
 **CommSense** 
 - Live Audio Data collection from 40 participants.
