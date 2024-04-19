@@ -10,7 +10,7 @@ author_profile: true
 
 # Experience
 
-## **Data Analyst, Sensing Systems for Health Lab, UVA**       Aug. 2023 - Present
+## **Data Analyst, Sensing Systems for Health Lab, UVA**     
 
 **BCMedTech**  
 - Collect Passive and Survey data of 20+ patients using Sensus App.  
@@ -21,7 +21,7 @@ author_profile: true
 - Data Visualization.  
 
 
-## **Graduate Research Assistant, Sensing Systems for Health Lab, UVA**     Feb. 2022 - August. 2023  
+## **Graduate Research Assistant, Sensing Systems for Health Lab, UVA**      
 
 **CommSense** 
 - Live Audio Data collection from 40 participants.
@@ -49,7 +49,7 @@ author_profile: true
 - Data and Information Engineering (SYS-2202)      Spring 2023
  
 
-## **System Engineer, Ed Egelman Laboratory, UVA**       Aug 2021– Aug 2022  
+## **System Engineer, Ed Egelman Laboratory, UVA**     
 - Design, setup and administration of 15 HPC Linux workstations.
 - Maintenance of Data Storage, Data Backup and Data File System (ZFS).
 - Configure and maintenance of Network system(pfsense, Proxmox, Monit).
@@ -57,7 +57,7 @@ author_profile: true
 - Computational work automation(Python, Shell scripts).
 
 
-## **Senior Product Specialist, REVE Systems**         Sep 2011 – Dec 2020
+## **Senior Product Specialist, REVE Systems**        
 **Linux Server Security and Maintenance:**
 • 1000+ Linux Cloud Server maintenance from different Co-Locations.  
 • System security maintenance (configure IPtables, SSH, SSL, SELinux).  
