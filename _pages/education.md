@@ -57,19 +57,19 @@ author_profile: true
 - Computational work automation(Python, Shell scripts).
 
 
-**Senior Product Specialist, REVE Systems**        Sep 2011 – Dec 2020
-# Linux Server Security and Maintenance:
-• 1000+ Linux Cloud Server maintenance from different Co-Locations.
-• System security maintenance (configure IPtables, SSH, SSL, SELinux).
-• OS installation, Server Partition, Core Distribution as per Rx and Tx, Network-Script configuration.
-• Analyze network protocols TCP/IP, SIP, UDP, HTTP using Wireshark.
-• Monitor system performance and reduce down time.
-• Prepare Technical Documents and arrange training for the Employees and Clients.
-• Write shell scripts to automate services.
+# **Senior Product Specialist, REVE Systems**        Sep 2011 – Dec 2020
+## Linux Server Security and Maintenance:
+• 1000+ Linux Cloud Server maintenance from different Co-Locations.  
+• System security maintenance (configure IPtables, SSH, SSL, SELinux).  
+• OS installation, Server Partition, Core Distribution as per Rx and Tx, Network-Script configuration.  
+• Analyze network protocols TCP/IP, SIP, UDP, HTTP using Wireshark.  
+• Monitor system performance and reduce down time.  
+• Prepare Technical Documents and arrange training for the Employees and Clients.  
+• Write shell scripts to automate services.  
 
-# Database maintenance:
-• Database design, Query preparation, Query optimization, Database indexing.
-• Data Recovery from crashed database(using binlog) and data reprocess.
-• Data replication for live data backup.
-• Database security analysis.
+## Database maintenance:
+• Database design, Query preparation, Query optimization, Database indexing.  
+• Data Recovery from crashed database(using binlog) and data reprocess.  
+• Data replication for live data backup.  
+• Database security analysis.  
 
